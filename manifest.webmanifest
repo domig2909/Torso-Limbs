@@ -1,13 +1,13 @@
 {
-  "name": "TL Training Tracker",
-  "short_name": "TL Tracker",
-  "description": "Torso/Limbs Gym Tracker mit Progression, Historie und Offline-Modus.",
+  "name": "FORM / FOCUS — Push Pull Tracker",
+  "short_name": "PUSH / PULL",
+  "description": "Premium Oberkörper-Tracker mit Trainingsprogression, Verlauf, Körpergewicht und Offline-Modus.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0b0d12",
-  "theme_color": "#0b0d12",
+  "background_color": "#0c0b12",
+  "theme_color": "#0c0b12",
   "icons": [
     {
       "src": "./icon-192.png",
